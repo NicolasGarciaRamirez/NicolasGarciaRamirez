@@ -3,7 +3,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador con 3 años de experiencia en el desarrollo de aplicaciones y sistemas robustos. A lo largo de mi carrera, he trabajado con una variedad de tecnologías y he desarrollado proyectos complejos que abarcan desde redes sociales hasta plataformas de gestión de KPIs. Mi objetivo es seguir creciendo en el ámbito del desarrollo de software y aportar soluciones innovadoras y eficientes.
+Soy un desarrollador con 4 años de experiencia en el desarrollo de aplicaciones y sistemas robustos. A lo largo de mi carrera, he trabajado con una variedad de tecnologías y he desarrollado proyectos complejos que abarcan desde redes sociales hasta plataformas de gestión de KPIs. Mi objetivo es seguir creciendo en el ámbito del desarrollo de software y aportar soluciones innovadoras y eficientes.
 
 ### Tecnologías y Herramientas
 
