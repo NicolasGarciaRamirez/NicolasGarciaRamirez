@@ -31,11 +31,11 @@ Soy un desarrollador con 4 años de experiencia en el desarrollo de aplicaciones
 
 ### Gráficas de Actividad
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicolasgarcia&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasGarciaRamirez&show_icons=true&theme=dark)
 
 ### Lenguajes Más Usados
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgarcia&layout=compact&theme=dark)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGarciaRamirez&layout=compact&theme=dark)
 
 ## Contacto
 
