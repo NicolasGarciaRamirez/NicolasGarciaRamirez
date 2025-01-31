@@ -7,8 +7,8 @@ Soy un desarrollador con 4 años de experiencia en el desarrollo de aplicaciones
 
 ### Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: PHP, JavaScript, Kotlin, Java
-- **Frameworks**: Laravel, Vue.js, React, Django
+- **Lenguajes de Programación**: PHP, JavaScript, Kotlin, Java, Python
+- **Frameworks**: Laravel, Vue.js, React, Django, Angular
 - **Servicios en la Nube**: AWS
 - **Desarrollo Web**: WordPress, Magento, PrestaShop
 - **Otras Herramientas**: Git, Docker, CI/CD
